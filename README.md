@@ -1,2 +1,2 @@
-# UFW_Configuration
+# UFW Configuration
 In this lab we are going to set up an uncomplicated firewall using basic configurations

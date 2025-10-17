@@ -22,7 +22,7 @@
 <h2>Configuring UFW</h2>
 
 <p align ="center">
- Boot up Ubuntu machine using virtual box: <br/>
+ Boot up the Ubuntu machine using virtual box: <br/>
 <img src="https://i.imgur.com/4KGuVNj.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
@@ -54,7 +54,7 @@
 <img src="https://i.imgur.com/8ndVyxP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Deny trafic incoming from FTP (port 21): <br/>
+ Deny traffic incoming from FTP (port 21): <br/>
 <img src="https://i.imgur.com/kTGvh7M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
